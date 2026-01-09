@@ -1,0 +1,17 @@
+{
+    "names":
+    [
+        {
+            "firstname" : "dhiraj",
+            "age" : "21"
+        },
+        {
+            "firstname" : "dinesh",
+            "age" : "21"
+        },
+        {
+            "firstname" : "monisha",
+            "age" : "29"
+        }
+    ]
+}
